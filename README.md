@@ -1,7 +1,7 @@
 # XSender-CodeBase
 XSender-CodeBase-V2.3.3
 
-![alt text](https://skrinshoter.ru/s/220524/e2hcX7ev.jpg)
+![alt text]([https://skrinshoter.ru/s/220524/e2hcX7ev.jpg](https://skrinshoter.ru/s/220524/e2hcX7ev.jpg?download=1&name=Скриншот-22-05-2024%2023:38:11.jpg))
 
 Обзор
 Веб-приложение XSender Laravel отправляет массовые электронные письма через SMTP, PHP Mailer, Send Grid API, а также массово отправляет SMS через устройство Android с использованием SIM-карты и шлюза SMS API. Кроме того, вы можете отправлять массовые сообщения WhatsApp, SMS и электронную почту в качестве рекламной кампании или других мероприятий.

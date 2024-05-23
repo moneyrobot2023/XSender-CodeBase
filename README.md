@@ -37,6 +37,8 @@ https://xsender.igensolutionsltd.com/login
 ## Купить  XSender-CodeBase-V2.3.3  https://t.me/Fradddyrad
 ## Купить  Доступ к приватному чату https://t.me/Fradddyrad
 
+## Купить пароль от Архива за 20 $  USDT Tron TRC-20:TFhRV6gmAxnuMsnzKnx6nL78Z1A4K4sQk5  после оплаты написать мне https://t.me/Fradddyrad
+
 
 Доступные функции
 Массовая отправка электронной почты:- массовая отправка электронной почты через поддерживаемые файлы CSV, excel, TXT, а также из группы, которую вы можете сохранить на своей панели.

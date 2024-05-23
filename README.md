@@ -28,11 +28,11 @@ https://xsender.igensolutionsltd.com
 
 https://xsender.igensolutionsltd.com/login
 
-![alt text]([https://skrinshoter.ru/s/220524/D06pNvWl.jpg](https://github.com/moneyrobot2023/XSender-CodeBase/blob/main/2.jpg))
+![alt text](https://github.com/moneyrobot2023/XSender-CodeBase/blob/main/2.jpg)
+![alt text](https://github.com/moneyrobot2023/XSender-CodeBase/blob/main/3.jpg)
+![alt text](https://github.com/moneyrobot2023/XSender-CodeBase/blob/main/4.jpg)
+![alt text](https://github.com/moneyrobot2023/XSender-CodeBase/blob/main/5.jpg)
 
-![alt text]([https://skrinshoter.ru/s/220524/btogWh0b.jpg](https://github.com/moneyrobot2023/XSender-CodeBase/blob/main/3.jpg))
-![alt text]([https://skrinshoter.ru/s/220524/Y5j4YWfi.jpg](https://github.com/moneyrobot2023/XSender-CodeBase/blob/main/4.jpg))
-![alt text]([https://skrinshoter.ru/s/220524/LLAPAnhn.jpg](https://github.com/moneyrobot2023/XSender-CodeBase/blob/main/5.jpg))
 
 ## Купить  XSender-CodeBase-V2.3.3  https://t.me/Fradddyrad
 ## Купить  Доступ к приватному чату https://t.me/Fradddyrad
